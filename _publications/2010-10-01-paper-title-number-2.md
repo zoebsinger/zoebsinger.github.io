@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Representation of visual uncertainty through neural gain variability"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/Henaff2020
+excerpt: 'XXX.'
+date: 2020
+venue: 'Nature Communications'
+paperurl: 'http://zoebsinger.github.io/files/Henaff2.pdf'
+citation: 'Henaff, O., Boundy-Singer, Z.M., Meding, K., Ziemba, C.M., Goris, R.T.L. (2020). &quot; Representation of visual uncertainty through neural gain variability.&quot; <i>Nature Communications</i>.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://zoebsinger.github.io/files/Henaff2020.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Henaff, O., Boundy-Singer, Z.M., Meding, K., Ziemba, C.M., Goris, R.T.L. (2020). &quot; Representation of visual uncertainty through neural gain variability.&quot; <i>Nature Communications</i>.
