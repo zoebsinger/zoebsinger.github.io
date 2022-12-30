@@ -14,7 +14,7 @@ Education
 * Ph.D in neuroscience, University of Texas at Austin, 2023 (expected)
 * B.S. in biology, University of Chicago, 2016
   * neuroscience specialization
-  * computational neurosceince minor
+  * computational neuroscience minor
 
 Work experience
 ======
