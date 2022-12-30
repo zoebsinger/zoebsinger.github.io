@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/BoundySinger2022.pdf)
 
-<strong>Boundy-Singer, Z.M. <sup>*</sup> </strong>, Ziemba, C.M  Goris, R.T.L. (2022). Confidence as a noisy decision reliability estimate. <i>Nature Human Behavior</i>.
+<strong>Boundy-Singer, Z.M. <sup>*</sup> </strong>, Ziemba, C.M. <sup>*</sup>, Goris, R.T.L. (2022). Confidence as a noisy decision reliability estimate. <i>Nature Human Behavior</i>.
