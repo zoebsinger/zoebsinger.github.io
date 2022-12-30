@@ -28,12 +28,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* MATLAB
-* Python
-* Adobe illustrator 
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -51,5 +45,11 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Skills
+======
+* MATLAB
+* Python
+* Adobe illustrator 
   
 
