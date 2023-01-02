@@ -7,4 +7,4 @@ venue: 'Nature Human Behavior'
 paperurl: 'http://zoebsinger.github.io/files/BoundySinger2022.pdf'
 citation: 'Boundy-Singer, Z.M.<sup>* </sup> , Ziemba, C.M<sup>* </sup> , Goris, R.T.L. (2022). Confidence as a noisy decision reliability estimate <i>Nature Human Behavior</i>.'
 ---
-<strong>Boundy-Singer, Z.M.<sup>* </sup> </strong>, Ziemba, C.M.<sup>*</sup>, Goris, R.T.L. (2022). Confidence as a noisy decision reliability estimate. <i>Nature Human Behavior</i>. [Link](http://zoebsinger.github.io/files/BoundySinger2022.pdf)
+
