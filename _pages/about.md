@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Insert bio.
+I am a neuroscience graduate student in the lab of [Robbe Goris](https://gorislab.github.io/) at UT Austin interested in visual perception and decision making. I am currently using a combination of perceptual experiments, computational theory, and electrophysiology to uncover the neural basis of uncertainty representation in visual cortex.
 
-Project title 1
+Neural representation of uncertainty 
 ======
-Description. Link to paper and code.
 
 
-Project title 2
+
+Perceptual confidence 
 ======
-Description.
+
+
 
 
 
