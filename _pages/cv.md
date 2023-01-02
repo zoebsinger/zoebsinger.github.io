@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+A complete CV can be found at this [link](http://zoebsinger.github.io/files/ZBS_CV_03132022.pdf)
 
 Education
 ======
