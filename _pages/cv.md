@@ -18,15 +18,20 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2018 - present: graduate student
+  * University of Texas at Austin
+  * Project: representation of uncertainty in macaque visual cortex
+  * Supervisor: Robbe Goris
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2017: rotation student
+  * University of Texas at Austin
+  * Project: optimal tuning curves for efficient coding
+  * Supervisor: Thibaud Taillefumier
+
+* 2013 - 2016: research assistant and summer intern
+  * University of Chicago
+  * Project: speed invariance of texture perception
+  * Supervisor: Sliman Bensmaia
   
 Publications
 ======
@@ -36,20 +41,20 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* UT Austin, 2022: Institue of neuroscience (INS) Dialogues 
+  * Decision confidence: computational and physiological mechanis   
+* UT Austin, 2021: Center for perceptual systmes seminar series
+  * Representation of uncertainty by macaque V1 populations
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* UT Austin, Spring 2021 & Spring 2022: Teaching assistaint for PSY 194 - ethics and professional development
   
 Skills
 ======
 * MATLAB
 * Python
+* LaTeX
 * Adobe illustrator 
   
 
