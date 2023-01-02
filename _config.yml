@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zoe Boundy-Singer"
   avatar           : "Profile_Pic.jpeg"
-  bio              : "This is my bio left-hand sidebar"
+  bio              : "Neuroscience graduate student at UT Austin"
   location         : "Austin, TX"
   employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
