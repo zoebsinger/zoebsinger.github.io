@@ -45,8 +45,10 @@ Henaff, O., <strong> Boundy-Singer, Z.M. </strong> , Meding, K., Ziemba, C.M., G
   
 Talks
 ======
+* COSYNE Workshops, 2023:
+  * Perceptual confidence: computational and physiological mechanisms  
 * UT Austin, 2022: Institue of neuroscience (INS) Dialogues 
-  * Decision confidence: computational and physiological mechanis   
+  * Decision confidence: computational and physiological mechanisms   
 * UT Austin, 2021: Center for perceptual systmes seminar series
   * Representation of uncertainty by macaque V1 populations
   
