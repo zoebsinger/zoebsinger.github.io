@@ -17,7 +17,7 @@ Education
   * neuroscience specialization
   * computational neuroscience minor
 
-Work experience
+Research experience
 ======
 * Spring 2018 - present: graduate student
   * University of Texas at Austin
@@ -47,14 +47,14 @@ Talks
 ======
 * COSYNE Workshops, 2023:
   * Perceptual confidence: computational and physiological mechanisms  
-* UT Austin, 2022: Institue of neuroscience (INS) Dialogues 
+* UT Austin, 2022: Institute of neuroscience (INS) Dialogues 
   * Decision confidence: computational and physiological mechanisms   
-* UT Austin, 2021: Center for perceptual systmes seminar series
+* UT Austin, 2021: Center for perceptual systems seminar series
   * Representation of uncertainty by macaque V1 populations
   
 Teaching
 ======
-* UT Austin, Spring 2021 & Spring 2022: Teaching assistaint for PSY 194 - ethics and professional development
+* UT Austin, Spring 2021 & Spring 2022: Teaching assistant for PSY 194 - ethics and professional development
   
 Skills
 ======
