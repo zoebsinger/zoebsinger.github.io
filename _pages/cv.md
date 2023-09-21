@@ -42,9 +42,15 @@ Henaff, O., <strong> Boundy-Singer, Z.M. </strong> , Meding, K., Ziemba, C.M., G
 
 <strong>Boundy-Singer, Z.M.</strong>, Saal, H.P., Bensmaia, S.J. (2017). Speed invariance of texture perception. <i>Journal of Neurophysiology</i>.
 [Link](http://zoebsinger.github.io/files/BoundySinger2017.pdf)
+
+Preprints
+======
+<strong>Boundy-Singer, Z.M. </strong>, Ziemba, C.M., Henaff, O., Goris, R.T.L. (2023). How does V1 population activity inform perceptual certainty? . <i>bioRxiv</i>. [Link](https://doi.org/10.1101/2023.09.08.556926) [Link](http://zoebsinger.github.io/files/BoundySinger2023.pdf)
   
 Talks
 ======
+* VSS, 2023:
+  * Relating V1 population activity to perceptual orientation uncertainty 
 * COSYNE Workshops, 2023:
   * Perceptual confidence: computational and physiological mechanisms  
 * UT Austin, 2022: Institute of neuroscience (INS) Dialogues 
