@@ -36,12 +36,12 @@ Research experience
   
 Publications
 ======
-<strong>Boundy-Singer, Z.M.<sup>* </sup> </strong>, Ziemba, C.M.<sup>*</sup>, Goris, R.T.L. (2022). Confidence as a noisy decision reliability estimate. <i>Nature Human Behavior</i>. [Link](http://zoebsinger.github.io/files/BoundySinger2022.pdf)
+<strong>Boundy-Singer, Z.M.<sup>* </sup> </strong>, Ziemba, C.M.<sup>*</sup>, Goris, R.T.L. (2022). Confidence as a noisy decision reliability estimate. <i>Nature Human Behavior</i>. [PDF](http://zoebsinger.github.io/files/BoundySinger2022.pdf)
 
-Henaff, O., <strong> Boundy-Singer, Z.M. </strong> , Meding, K., Ziemba, C.M., Goris, R.T.L. (2020). Representation of visual uncertainty through neural gain variability. <i>Nature Communications</i>. [Link](http://zoebsinger.github.io/files/Henaff2020.pdf)
+Henaff, O., <strong> Boundy-Singer, Z.M. </strong> , Meding, K., Ziemba, C.M., Goris, R.T.L. (2020). Representation of visual uncertainty through neural gain variability. <i>Nature Communications</i>. [PDF](http://zoebsinger.github.io/files/Henaff2020.pdf)
 
 <strong>Boundy-Singer, Z.M.</strong>, Saal, H.P., Bensmaia, S.J. (2017). Speed invariance of texture perception. <i>Journal of Neurophysiology</i>.
-[Link](http://zoebsinger.github.io/files/BoundySinger2017.pdf)
+[PDF](http://zoebsinger.github.io/files/BoundySinger2017.pdf)
 
 Preprints
 ======
