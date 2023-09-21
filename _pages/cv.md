@@ -45,7 +45,7 @@ Henaff, O., <strong> Boundy-Singer, Z.M. </strong> , Meding, K., Ziemba, C.M., G
 
 Preprints
 ======
-<strong>Boundy-Singer, Z.M. </strong>, Ziemba, C.M., Henaff, O., Goris, R.T.L. (2023). How does V1 population activity inform perceptual certainty? . <i>bioRxiv</i>. [Link](https://doi.org/10.1101/2023.09.08.556926) [PDF](http://zoebsinger.github.io/files/BoundySinger2023.pdf)
+<strong>Boundy-Singer, Z.M. </strong>, Ziemba, C.M., Henaff, O., Goris, R.T.L. (2023). How does V1 population activity inform perceptual certainty? . <i>bioRxiv</i>. doi: 10.1101/2023.09.08.556926. [Link](https://doi.org/10.1101/2023.09.08.556926) [PDF](http://zoebsinger.github.io/files/BoundySinger2023.pdf)
   
 Talks
 ======
