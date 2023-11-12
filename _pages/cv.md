@@ -12,7 +12,7 @@ A complete CV can be found at this [link](http://zoebsinger.github.io/files/ZBS_
 
 Education
 ======
-* Ph.D in neuroscience, University of Texas at Austin, 2023 (expected)
+* Ph.D in neuroscience, University of Texas at Austin, Spring 2024 (expected)
 * B.S. in biology, University of Chicago, 2016
   * neuroscience specialization
   * computational neuroscience minor
