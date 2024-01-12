@@ -49,6 +49,8 @@ Preprints
   
 Talks
 ======
+* SFN, 2023:
+  * The representation of visual uncertainty in V1 population activity.
 * VSS, 2023:
   * Relating V1 population activity to perceptual orientation uncertainty 
 * COSYNE Workshops, 2023:
