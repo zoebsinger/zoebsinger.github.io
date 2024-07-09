@@ -40,6 +40,8 @@ Research experience
   
 Publications
 ======
+<strong>Boundy-Singer, Z.M. </strong>, Ziemba, C.M., Henaff, O., Goris, R.T.L. (2024). How does V1 population activity inform perceptual certainty? Journal of Vision. [PDF](http://zoebsinger.github.io/files/BoundySinger2024.pdf)
+
 <strong>Boundy-Singer, Z.M.<sup>* </sup> </strong>, Ziemba, C.M.<sup>*</sup>, Goris, R.T.L. (2023). Confidence as a noisy decision reliability estimate. <i>Nature Human Behavior</i>. [PDF](http://zoebsinger.github.io/files/BoundySinger2022.pdf)
 
 Henaff, O., <strong> Boundy-Singer, Z.M. </strong> , Meding, K., Ziemba, C.M., Goris, R.T.L. (2020). Representation of visual uncertainty through neural gain variability. <i>Nature Communications</i>. [PDF](http://zoebsinger.github.io/files/Henaff2020.pdf)
@@ -49,7 +51,7 @@ Henaff, O., <strong> Boundy-Singer, Z.M. </strong> , Meding, K., Ziemba, C.M., G
 
 Preprints
 ======
-<strong>Boundy-Singer, Z.M. </strong>, Ziemba, C.M., Henaff, O., Goris, R.T.L. (2023). How does V1 population activity inform perceptual certainty? . <i>bioRxiv</i>. doi: 10.1101/2023.09.08.556926. [Link](https://doi.org/10.1101/2023.09.08.556926) [PDF](http://zoebsinger.github.io/files/BoundySinger2023.pdf)
+
   
 Talks
 ======
