@@ -8,18 +8,22 @@ redirect_from:
 ---
 
 {% include base_path %}
-A complete CV can be found at this [link](http://zoebsinger.github.io/files/ZBS_CV_03132022.pdf)
+A complete CV can be found at this [link](http://zoebsinger.github.io/files/ZBS_CV.pdf)
 
 Education
 ======
-* Ph.D in neuroscience, University of Texas at Austin, Spring 2024 (expected)
+* Ph.D in neuroscience, University of Texas at Austin, Spring 2024
 * B.S. in biology, University of Chicago, 2016
   * neuroscience specialization
   * computational neuroscience minor
 
 Research experience
 ======
-* Spring 2018 - present: graduate student
+* Summer 2024 - present: postdoc
+  * MIT
+  * Supervisor: Mehrdad Jazayeri
+
+* Spring 2018 - Spring 2024: graduate student
   * University of Texas at Austin
   * Project: representation of uncertainty in macaque visual cortex
   * Supervisor: Robbe Goris
@@ -36,7 +40,7 @@ Research experience
   
 Publications
 ======
-<strong>Boundy-Singer, Z.M.<sup>* </sup> </strong>, Ziemba, C.M.<sup>*</sup>, Goris, R.T.L. (2022). Confidence as a noisy decision reliability estimate. <i>Nature Human Behavior</i>. [PDF](http://zoebsinger.github.io/files/BoundySinger2022.pdf)
+<strong>Boundy-Singer, Z.M.<sup>* </sup> </strong>, Ziemba, C.M.<sup>*</sup>, Goris, R.T.L. (2023). Confidence as a noisy decision reliability estimate. <i>Nature Human Behavior</i>. [PDF](http://zoebsinger.github.io/files/BoundySinger2022.pdf)
 
 Henaff, O., <strong> Boundy-Singer, Z.M. </strong> , Meding, K., Ziemba, C.M., Goris, R.T.L. (2020). Representation of visual uncertainty through neural gain variability. <i>Nature Communications</i>. [PDF](http://zoebsinger.github.io/files/Henaff2020.pdf)
 
