@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zoe Boundy-Singer"
 title_separator          : "-"
 name                     : &name "Zoe Boundy-Singer"
-description              : &description "Neuroscience graduate student at UT Austin"
+description              : &description "Postdoc at MIT"
 url                      : https://zoebsinger.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zoebsinger/zoebsinger.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zoe Boundy-Singer"
   avatar           : "Profile_Pic.jpeg"
-  bio              : "Neuroscience graduate student at UT Austin"
-  location         : "Austin, TX"
+  bio              : "Postdoc at MIT"
+  location         : "Cambridge, MA"
   employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=q13ZxTMAAAAJ&hl=en"
-  email            : "zoebsinger@utexas.edu"
+  email            : "zbsinger@mit.edu"
  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
