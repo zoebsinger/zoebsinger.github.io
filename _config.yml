@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zoe Boundy-Singer"
-  avatar           : "Profile_Pic.jpeg"
+  avatar           : "Profile_Pic.png"
   bio              : "Postdoc at MIT"
   location         : "Cambridge, MA"
   employer         :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "zoebsinger"
 
 
 # Reading Files
